@@ -1,5 +1,5 @@
 {
-  "name": "cavallo-account-link-extension",
+  "name": "auth0-account-link-extension",
   "version": "2.6.5-cav",
   "description": "Cavallo Account Link Extension",
   "main": "index.js",
