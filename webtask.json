@@ -1,9 +1,9 @@
 {
-  "title": "Auth0 Account Link",
-  "name": "auth0-account-link",
-  "version": "2.6.5",
-  "preVersion": "2.6.3",
-  "author": "auth0",
+  "title": "Cavallo Account Link",
+  "name": "cavallo-account-link",
+  "version": "2.6.5-cav",
+  "preVersion": "2.6.5",
+  "author": "auth0, Cavallo",
   "description":
     "This extension gives Auth0 customers the ability to allow their users to link their accounts",
   "type": "application",
